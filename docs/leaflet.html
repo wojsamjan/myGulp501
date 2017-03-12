@@ -17,40 +17,7 @@
 </head>
 
 <body>
-    <div id="map"></div>
-    <script>
-        var map = L.map('map').setView([14.37, 121.00], 5);
-        
-        L.tileLayer('https://api.mapbox.com/styles/v1/yashimoto/cj0710q5p00if2rmlwbxxu0mu/tiles/256/{z}/{x}/{y}?access_token={accessToken}', {
-            maxZoom: 18,
-            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-                '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                'Imagery © <a href="http://mapbox.com">Mapbox</a>',
 
-            id: 'mapbox.mapbox-streets-v7',
-            accessToken: 'pk.eyJ1IjoieWFzaGltb3RvIiwiYSI6ImNqMDZ4aW95cDAwYzEzMmx1dTM4MHcyZWsifQ.6lPokdyBp6wJlMaut4QIxQ'
-        }).addTo(map);
-        
-        var manilaPopup = "Thrilla in Manila";
-        var manilaMarker = L.geoJSON(manila);
-        manilaMarker.bindPopup(manilaPopup);
-        manilaMarker.addTo(map);
-        //L.geoJSON(manila).addTo(map);
-        
-        var philippinesPopup = "Philippines";
-        var philippinesMarker = L.geoJSON(philippines);
-        philippinesMarker.bindPopup(philippinesPopup);
-        philippinesMarker.addTo(map);
-        //L.geoJSON(philippines).addTo(map);
-        
-        var luzonPopup = "Central Luzon";
-        var luzonMarker = L.geoJSON(luzon);
-        luzonMarker.bindPopup(luzonPopup);
-        luzonMarker.addTo(map);
-        //L.geoJSON(luzon).addTo(map);
-        
-        //L.geoJSON(geojsons).addTo(map);
-    </script>
-    
+    <h1>eee</h1>    
 </body>
 </html>
