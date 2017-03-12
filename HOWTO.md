@@ -13,9 +13,9 @@
 
 ## Zadanie drugie, [deadline: 22.02.2017]
 
-+ [ ] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: Simply edit GeoJSON map data.
++ [x] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: Simply edit GeoJSON map data.
 
-+ [ ] Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
++ [x] Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
 
 ## Zadanie trzecie, [deadline: 09.04.2017]
  
