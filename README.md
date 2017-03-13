@@ -26,14 +26,14 @@
 
 ### Tasks
 
-1\. [deadline 05.03.2017]   [CERN map](https://wojsamjan.github.io/myGulp501/cern.html)
+1\. [deadline 05.03.2017] [CERN map](https://wojsamjan.github.io/myGulp501/cern.html)
 
 + [x] Create a new repository and link up to [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
 + [x] Getting to know Gulp [gulp](http://gulpjs.com)
 + [x] Add a CERN neighbourhood map to the code of [the first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
 + [x] Add new tasks to the gulpfile.js
 
-2\. [deadline 22.03.2017]   [GeoJSON with Leaflet](https://wojsamjan.github.io/myGulp501/leaflet.html)
+2\. [deadline 22.03.2017] [GeoJSON with Leaflet](https://wojsamjan.github.io/myGulp501/leaflet.html)
 
 Przejrzeć dokumentację [_GeoJSON_](http://geojson.org/). Napisać
 kilka geojsonów i przetestować je na tej stronie:
