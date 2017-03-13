@@ -28,10 +28,10 @@
 
 1\. [deadline 05.03.2017]
 
-* Create a new repository and link up to [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
-* Getting to know Gulp [gulp](http://gulpjs.com)
-* Add a CERN neighbourhood map to the code of [the first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
-* Add new tasks to the gulpfile.js
+[x] Create a new repository and link up to [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
+[x] Getting to know Gulp [gulp](http://gulpjs.com)
+[x] Add a CERN neighbourhood map to the code of [the first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
+[x] Add new tasks to the gulpfile.js
 
 2\. [deadline 22.03.2017]
 
