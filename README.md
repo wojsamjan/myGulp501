@@ -26,8 +26,8 @@
 
 ### Tasks
 
-1\. [deadline 05.03.2017]
-+ [CERN map](https://wojsamjan.github.io/myGulp501/cern.html)
+1\. [deadline 05.03.2017] [CERN map](https://wojsamjan.github.io/myGulp501/cern.html)
+
 + [x] Create a new repository and link up to [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
 + [x] Getting to know Gulp [gulp](http://gulpjs.com)
 + [x] Add a CERN neighbourhood map to the code of [the first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
