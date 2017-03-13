@@ -35,9 +35,8 @@
 
 2\. [deadline 22.03.2017] [GeoJSON with Leaflet](https://wojsamjan.github.io/myGulp501/leaflet.html)
 
-Przejrzeć dokumentację [_GeoJSON_](http://geojson.org/). Napisać
-kilka geojsonów i przetestować je na tej stronie:
-[Simply edit GeoJSON map data](http://geojson.io).
+Look through the docs [_GeoJSON_](http://geojson.org/).
+Write some GeoJSON and test them at the website: [Simply edit GeoJSON map data](http://geojson.io).
 
 Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
 W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
