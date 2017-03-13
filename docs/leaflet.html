@@ -19,7 +19,7 @@
 <body>
     <div id="map"></div>
     <script>
-        var map = L.map('map').setView([14.37, 121.00], 5);
+        var map = L.map('map').setView([14.00, 110.00], 6);
         
         L.tileLayer('https://api.mapbox.com/styles/v1/yashimoto/cj0710q5p00if2rmlwbxxu0mu/tiles/256/{z}/{x}/{y}?access_token={accessToken}', {
             maxZoom: 18,
@@ -37,11 +37,17 @@
         manilaMarker.addTo(map);
         //L.geoJSON(manila).addTo(map);
         
-        var philippinesPopup = "Philippines";
-        var philippinesMarker = L.geoJSON(philippines);
-        philippinesMarker.bindPopup(philippinesPopup);
-        philippinesMarker.addTo(map);
-        //L.geoJSON(philippines).addTo(map);
+        var bangkokPopup = "One Night in Bangkok";
+        var bangkokMarker = L.geoJSON(bangkok);
+        bangkokMarker.bindPopup(bangkokPopup);
+        bangkokMarker.addTo(map);
+        //L.geoJSON(bangkok).addTo(map);
+        
+        var manila_bangkokPopup = "Golden Gate Bridge by China";
+        var manila_bangkokMarker = L.geoJSON(manila_bangkok);
+        manila_bangkokMarker.bindPopup(manila_bangkokPopup);
+        manila_bangkokMarker.addTo(map);
+        //L.geoJSON(manila_bangkok).addTo(map);
         
         var luzonPopup = "Central Luzon";
         var luzonMarker = L.geoJSON(luzon);

@@ -10,17 +10,29 @@ var manila =
         }
     };
 
-var philippines =
+var bangkok =
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.49, 13.76]
+        },
+        "properties": {
+            "name": "Bangkok"
+        }
+    };
+
+var manila_bangkok =
     {
         "type": "Feature",
         "geometry": {
             "type": "LineString",
             "coordinates": [
-                [122.0, 18.1], [122.0, 10.1]
+                [120.98, 14.59], [100.49, 13.76]
             ]
         },
         "properties": {
-            "name": "through Philippines"
+            "name": "From Manila to Bangkok"
         }
     };
 
