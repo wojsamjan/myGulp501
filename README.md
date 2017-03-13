@@ -9,6 +9,10 @@
     - Mark Goodyear, [Getting started with Gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
   + [Git](https://git-scm.com/book/pl/v1/Pierwsze-kroki-Instalacja-Git) - Installing Git
   + [Node.js](https://nodejs.org/en/) - Installing Node.js
+    ```
+    npm install -g gulp
+    npm install -g livereload # optional
+    ```
 
 
 
