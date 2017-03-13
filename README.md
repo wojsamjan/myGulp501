@@ -33,7 +33,7 @@
 + [x] Add a CERN neighbourhood map to the code of [the first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
 + [x] Add new tasks to the gulpfile.js
 
-2\. [deadline 22.03.2017]
+2\. [deadline 22.03.2017] [GeoJSON with Leaflet](https://wojsamjan.github.io/myGulp501/leaflet.html)
 
 Przejrzeć dokumentację [_GeoJSON_](http://geojson.org/). Napisać
 kilka geojsonów i przetestować je na tej stronie:
@@ -41,7 +41,3 @@ kilka geojsonów i przetestować je na tej stronie:
 
 Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
 W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
-
-
-+ [CERN map](https://wojsamjan.github.io/myGulp501/cern.html)
-+ [GeoJSON with Leaflet](https://wojsamjan.github.io/myGulp501/leaflet.html)
