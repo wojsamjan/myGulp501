@@ -12,10 +12,16 @@
   + Installing Gulp globally:
   
     ```sh
-    npm install -g gulp
+    npm install gulp -g
     ```
     
-  + []
+  + Installing Gulp locally in our project directory:
+  
+    ```sh
+    npm init
+    npm install gulp --save-dev
+    # add node_modules to .gitignore file
+    ```
 
 
 
