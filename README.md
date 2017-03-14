@@ -39,3 +39,7 @@
 + [x] Write some GeoJSON and test them on the website: [Simply edit GeoJSON map data](http://geojson.io).
 + [x] Create a website using the [Leaflet JavaScript Library](http://leafletjs.com/).
 + [x] Use the following [Geometry Objects] http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
+
+4\. [deadline 22.04.2017] [Web Math with MathJax]()
+
++ [x] Create a website with math formulas using [MathJax](http://docs.mathjax.org/en/latest/index.html).
