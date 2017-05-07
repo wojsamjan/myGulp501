@@ -40,6 +40,14 @@
 + [x] Create a website using the [Leaflet JavaScript Library](http://leafletjs.com/).
 + [x] Use the following [Geometry Objects] http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ and _Polygon_.
 
-4\. [deadline 22.04.2017] [Web Math with MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html)
+3.1\. [deadline 22.04.2017] [Responsive Tables](https://wojsamjan.github.io/myGulp501/respotable.html)
+
++ [x] Create a website with responsive tables.
+
+3.2\. [deadline 22.04.2017] [Responsive Images](https://wojsamjan.github.io/myGulp501/respoimage.html)
+
++ [x] Create a website with responsive images.
+
+4\. [deadline 06.05.2017] [Web Math with MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html)
 
 + [x] Create a website with math formulas using [MathJax](http://docs.mathjax.org/en/latest/index.html).
