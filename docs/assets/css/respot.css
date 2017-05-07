@@ -24,6 +24,10 @@ th:nth-child(3), td:nth-child(3), th:nth-child(4), td:nth-child(4) {
 }
 
 @media (min-width: 768px) {
+    body {
+        font-size: 28px;
+    }
+    
     th:nth-child(3), td:nth-child(3) {
         display: table-cell;
     } 
