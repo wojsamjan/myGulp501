@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("../img/720.png");
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+@media (min-width: 480px) {
+    body {
+        background-image: url("../img/2k.png");
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        background-image: url("../img/4k.png");
+    }
+}
