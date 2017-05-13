@@ -9,32 +9,68 @@
 
 <body>
     
-    <table border="1" cellpadding="0" cellspacing="0">
-        <tr>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Nationality</th>
-            <th>Profession</th>
-        </tr>
-        <tr>
-            <td>Walter</td>
-            <td>Melon</td>
-            <td>French American</td>
-            <td>Hero for Hire</td>
-        </tr>
-        <tr>
-            <td>Mr.</td>
-            <td>Satan</td>
-            <td>-</td>
-            <td>Tenkaichi Budokai Champion</td>
-        </tr>
-        <tr>
-            <td>Krzysztof</td>
-            <td>Jarzyna</td>
-            <td>Polak</td>
-            <td>Szef wszystkich szefów</td>
-        </tr>
+    <!--<table border="1" cellpadding="0" cellspacing="0">-->
+    <table>
+        
+        <colgroup>
+            <col id="full-name" span="2">
+            <col id="nationality">
+            <col id="profession">
+        </colgroup>
+            
+        <caption>SuperHeroes</caption>
+        
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Nationality</th>
+                <th>Profession</th>
+            </tr>          
+        </thead>
+        
+        <tbody>
+            <tr>
+                <td>Walter</td>
+                <td>Melon</td>
+                <td>French American</td>
+                <td>Hero for Hire</td>
+            </tr>
+            <tr>
+                <td>Mr.</td>
+                <td>Satan</td>
+                <td>-</td>
+                <td>Tenkaichi Budokai Champion</td>
+            </tr>
+            <tr>
+                <td>Krzysztof</td>
+                <td>Jarzyna</td>
+                <td>Polak</td>
+                <td>Szef wszystkich szefów</td>
+            </tr>
+        </tbody>
+        
+        <tfoot>
+            <tr>
+                <td><a href="https://github.com/wojsamjan/myGulp501">yashi</a></td>
+                <td id="yashi-rest" colspan="3">
+                    <table>
+                        <tr>
+                            <td class="inner-data"></td>
+                            <td class="inner-data"></td>
+                            <td id="last2" rowspan="2"></td>
+                            <td id="last1" rowspan="2"></td>
+                        </tr>
+                        <tr>
+                            <td class="inner-data" colspan="2"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>  
+        </tfoot>
     </table>
+    
+    <div id="show-content"></div>
     
 </body>
 </html>
