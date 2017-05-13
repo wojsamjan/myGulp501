@@ -52,5 +52,7 @@
 
 + [x] Create a website with math formulas using [MathJax](http://docs.mathjax.org/en/latest/index.html).
 
+Exam JS
+
 + [CSS + JS Clock](https://wojsamjan.github.io/myGulp501/css_js_clock.html)
 + [Slide In On Scroll](https://wojsamjan.github.io/myGulp501/slide_in_on_scroll.html)
