@@ -55,5 +55,5 @@
 
 ### Exam JS
 
-+ [CSS + JS Clock](https://wojsamjan.github.io/myGulp501/css_js_clock.html)
-+ [Slide In On Scroll](https://wojsamjan.github.io/myGulp501/slide_in_on_scroll.html)
++ [2 - CSS + JS CLOCK](https://wojsamjan.github.io/myGulp501/css_js_clock.html)
++ [13 - Slide In On Scroll](https://wojsamjan.github.io/myGulp501/slide_in_on_scroll.html)
