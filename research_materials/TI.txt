@@ -1,0 +1,12 @@
+GeoJSON/Leaflet
+geojsony zapisane jako var w pliku nazwa_pliku.js i importowane: MAM
+przedstawione: http://code.jquery.com/jquery-latest.min.js ALE nieu¿ywane
+https://www.youtube.com/watch?v=_aYYmSR5YXU
+
+z u¿yciem leaflet-ajax:
+http://gis.stackexchange.com/questions/68489/how-to-load-external-geojson-file-into-leaflet-map
+http://stackoverflow.com/questions/20485723/add-external-geojson-to-leaflet-layer
+http://gis.stackexchange.com/questions/146408/load-external-geojson-file-into-leaflet-map
+
+z u¿yciem jQuery:
+http://maptimeboston.github.io/leaflet-intro/
