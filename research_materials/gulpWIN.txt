@@ -1,0 +1,34 @@
+Czym jest Node.js oraz npm - instalacja:
+https://www.youtube.com/watch?v=Ft7UjXrH5uU	MAM
+https://www.youtube.com/watch?v=OduRGLdRNOk	GRUNT
+
+live preview:
+https://github.com/adobe/brackets/issues/9192
+
+mac:
+http://grafmag.pl/artykuly/wstep-do-sass-prepreocesora-jezyka-css/
+
+sass:
+http://webroad.pl/html5-css3/657-1-sass-compass-instalacja-i-podstawowe-komendy
+http://blog.eduweb.pl/wprowadzenie-do-preprocesorow-css/
+
+Owczarek: 01 Powierzchowne wprowadzenie do NodeJS i NPM
+https://www.youtube.com/watch?v=FUsoQzFYbH8
+
+terminal pod WIN7:
+https://www.google.pl/search?q=terminal+linux+pod+windows&oq=terminal+linux+pod+&aqs=chrome.1.69i57j0.11487j1j7&sourceid=chrome&ie=UTF-8
+
+git WIN: MAM
+https://git-for-windows.github.io/
+
+GitHub Desktop: MAM
+https://desktop.github.com/
+
+how to setup SSH windows7: MAM
+https://www.youtube.com/watch?v=Vi-WqFKYpnw
+
+SSH by putty:
+https://www.youtube.com/watch?v=ijbedtVP28Q
+
+gulp npm install --save-dev gulp:
+https://github.com/sindresorhus/gulp-imagemin/issues/7		Nie nazywaj projektu "gulp" w .json
